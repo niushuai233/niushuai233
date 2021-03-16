@@ -1,6 +1,6 @@
 ### Hi Look At Me 👋
 
-热爱生活🌱
+热爱生活🌱, 也热爱努力生活的自己。😄
 
 <!--
 **niushuai233/niushuai233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
