@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 热爱生活🌱, 也热爱努力生活的自己。😄
 
-[![Github统计](https://github-readme-stats.vercel.app/api?username=niushuai233&show_icons=true&line_height=32)](https://github.com/niushuai233)
-<img src="https://raw.githubusercontent.com/shuzijun/shuzijun/master/pc.gif" width="245" height="245" alt=""/>
+[![Github统计](https://github-readme-stats.vercel.app/api?username=niushuai233&hide_title=true&hide_border=true&show_icons=true&line_height=28)](https://github.com/niushuai233)
+<img src="https://raw.githubusercontent.com/shuzijun/shuzijun/master/pc.gif" width="250" height="250" alt=""/>
 
